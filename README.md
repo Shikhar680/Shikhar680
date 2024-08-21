@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikhar Srivastava</h1>
-<h3 align="center">3rd Year Btech CSE(AIML) Student at UCER, Prayagraj</h3>
+<h3 align="center">4th Year Btech CSE(AIML) Student at UCER, Prayagraj</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar680&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar680" /> </p>
 
